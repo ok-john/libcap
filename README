@@ -1,3 +1,13 @@
+This library is a fork of libcap, authored by Andrew G. Morgan <morgan@kernel.org>
+
+The source is available here
+
+https://git.kernel.org/pub/scm/libs/libcap/libcap.git/
+
+- 	- 	- 	-
+
+-	-	-	-
+
 This is a library for getting and setting POSIX.1e (formerly POSIX 6)
 draft 15 capabilities.
 
